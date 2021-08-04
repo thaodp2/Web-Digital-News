@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 12, 2021, 3:12:28 PM
+    Author     : Admin
+*/
+
+
+.topHeader{
+    background: url(../img/preheader.jpg);
+    width: 886px;
+    height: 71px;
+}
+.header{
+    background: url(../img/header.jpg);
+    width: 886px;
+    height: 78px;
+}
+.header h2{
+    color: white;
+    margin: 0;
+    padding-left: 80px;
+}
+.menu{
+    background: url(../img/menu.jpg);
+    width: 886px;
+    height: 32px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 80px;
+    line-height: 32px;
+}
